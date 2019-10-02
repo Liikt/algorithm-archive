@@ -28,6 +28,8 @@ We can find whether a rotation is counter-clockwise with trigonometric functions
 [import:27-29, lang:"java"](code/java/GrahamScan.java)
 {% sample lang="cpp" %}
 [import:10-12, lang="cpp"](code/c++/graham_scan.cpp)
+{% sample lang="v" %}
+[import:10-12, lang="v"](code/v/graham_scan.v)
 {% endmethod %}
 
 If the output of this function is 0, the points are collinear.
