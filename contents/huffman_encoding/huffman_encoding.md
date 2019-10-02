@@ -89,6 +89,8 @@ Whether you use a stack or straight-up recursion also depends on the language, b
 [import, lang:"java"](code/java/huffman.java)
 {% sample lang="go" %}
 [import, lang:"go"](code/golang/huffman.go)
+{% sample lang="v" %}
+[import, lang:"v"](code/v/huffman.v)
 {% sample lang="asm-x64" %}
 [import, lang:"asm-x64"](code/asm-x64/huffman.s)
 {% sample lang="scala" %}
